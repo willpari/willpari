@@ -72,7 +72,10 @@
 </p>
 <br>
 
-<a href="https://app.daily.dev/willenriqueparimuante"><img src="https://api.daily.dev/devcards/01a1fc1b18ab44b5a94252ccf03c79cb.png?r=8x4" width="400" alt="Will Enrique Pari Muñante's Dev Card"/></a>
-
+<br>
+<h1 align="center">Dev Card</h1>
+<p align="center"> 
+<a href="https://app.daily.dev/willenriqueparimuante"><img src="https://api.daily.dev/devcards/01a1fc1b18ab44b5a94252ccf03c79cb.png?r=zln" width="300" alt="Will Enrique Pari Muñante's Dev Card"/></a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
