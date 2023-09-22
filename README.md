@@ -72,6 +72,7 @@
 </p>
 <br>
 
+<a href="https://app.daily.dev/willenriqueparimuante"><img src="https://api.daily.dev/devcards/01a1fc1b18ab44b5a94252ccf03c79cb.png?r=8x4" width="400" alt="Will Enrique Pari Muñante's Dev Card"/></a>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
