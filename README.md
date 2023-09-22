@@ -71,6 +71,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="100" />
 </p>
 <br>
+<h1 align="center">GitHub Stats</h1>
+
+<div align="center">
+  <img src="ttps://github-readme-stats.vercel.app/api/top-langs/?username=willpari&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"/>
+</div>
 
 <br>
 <h1 align="center">Dev Card</h1>
