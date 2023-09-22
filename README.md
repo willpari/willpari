@@ -80,7 +80,7 @@
 <br>
 <h1 align="center">Dev Card</h1>
 <p align="center"> 
-<a href="https://app.daily.dev/willpari"><img src="https://api.daily.dev/devcards/01a1fc1b18ab44b5a94252ccf03c79cb.png?r=pz9" width="400" alt="Will Pari's Dev Card"/></a>
+<a href="https://app.daily.dev/willpari"><img src="https://api.daily.dev/devcards/01a1fc1b18ab44b5a94252ccf03c79cb.png?r=faq" width="400" alt="Will Pari's Dev Card"/></a>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
