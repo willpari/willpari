@@ -1,5 +1,7 @@
-<h1 align="center"> Hi, I'm Will Pari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<br>
+<div align="center">
+<h1 align="center">Hi, I'm <a href="https://aristi.dev">Will Pari</a> 👋</h1>
+</div>
+<img src="https://i.imgur.com/weNbhGZ.png">
 <h3 align="center"> Software Design and Development student with a strong focus on frontend development. </h3>
 <br>
 
