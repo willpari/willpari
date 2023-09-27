@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="">Will Pari</a> 👋</h1>
 </div>
-<img src="https://i.pinimg.com/originals/08/18/3c/08183cea8de8882ad879b71c7f176097.png">
+<img src="[https://i.pinimg.com/originals/08/18/3c/08183cea8de8882ad879b71c7f176097.png](https://i.pinimg.com/originals/99/17/34/99173434632b994eaf21dab82edfbba4.png)">
 <h3 align="center"> Software Design and Development student with a strong focus on frontend development. </h3>
 <br>
 
