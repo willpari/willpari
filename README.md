@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm <a href="">Will Pari</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/6KcaTyj.png">
-<h3 align="center"> Software Design and Development student with a strong focus on frontend development.</h3>
+<h3 align="center"> Software Design and Development student with a strong focus on backend development.</h3>
 
 ## Tecnologias 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
