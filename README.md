@@ -32,28 +32,3 @@
   </a>
 </p>
 <br>
-
-<!-----Statistical Data figures------>
-<h2 align="center">Datos Estadísticos</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=willenriquepari&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="willenriquepari" 
-    bg_color=#808080/>
-</p>
-<br>
-
-<!-----General Data figures------>
-<h2 align="center">Datos Generales</h2>
-
-<p align="center">
-  <img align="center" style="margin-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=willenriquepari&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="willenriquepari" />
-</p>
-<br>
-
-<!-----Contribution Stats------>
-<h2 align="center">Estadísticas de Contribuciones</h2>
-
-<p align="center">
-  <img align="center" style="margin-left: 20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=willenriquepari&theme=dark" alt="willenriquepari" />
-</p>
