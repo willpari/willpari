@@ -1,26 +1,59 @@
-<div align="center">
-<h1 align="center">Hi, I'm <a href="">Will Pari</a> 👋</h1>
-</div>
-<img src="https://i.imgur.com/6KcaTyj.png">
-<h3 align="center"> Software Design and Development student with a strong focus on backend development.</h3>
+<h1 border="0">Hola a todos, soy Will Enrique Pari Muñante😎</h1>
+<hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
-## Tecnologias 💻
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-<br/>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-<br/>
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+- 🧐 Soy un Desarrollador Backend <br/> 
+- 🤩 Me apasiona construir sistemas robustos, eficientes y escalables, y trabajar en equipo<br/>
+- 🌱 Siempre buscando aprender nuevas tecnologías y mejorar tanto mis habilidades técnicas como blandas<br/>
+- 💞️ Estoy abierto a colaborar en proyectos interesantes<br/>
+- 📫 Puedes contactarme a través de las siguientes redes😁👇🏻 <br/>
 
+<!-----Social Accounts------>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/willenrique/">
+  <img border="0" alt="Will Enrique Pari Muñante" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+  </a>
+  
+  <a href="https://t.me/willenrique">
+  <img border="0" alt="Will Enrique Pari Muñante" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
+  </a>
+  
+  <a href="mailto:willenriqueparimunante@gmail.com">
+  <img border="0" alt="Will Enrique Pari Muñante" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+  </a>
+</p>
+
+<!-----Tech Stack figures------>
+<h2 align="center">Tecnologías Principales</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,csharp,sqlserver,postgresql,redis,docker,kubernetes,github,linux,azure" />
+  </a>
+</p>
+<br>
+
+<!-----Statistical Data figures------>
+<h2 align="center">Datos Estadísticos</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=willenriquepari&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="willenriquepari" 
+    bg_color=#808080/>
+</p>
+<br>
+
+<!-----General Data figures------>
+<h2 align="center">Datos Generales</h2>
+
+<p align="center">
+  <img align="center" style="margin-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=willenriquepari&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="willenriquepari" />
+</p>
+<br>
+
+<!-----Contribution Stats------>
+<h2 align="center">Estadísticas de Contribuciones</h2>
+
+<p align="center">
+  <img align="center" style="margin-left: 20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=willenriquepari&theme=dark" alt="willenriquepari" />
+</p>
