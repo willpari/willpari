@@ -22,16 +22,5 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<h1 align="center">GitHub Stats</h1>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willpari&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" />
-</div>
-
-<br>
-<h1 align="center">Dev Card</h1>
-<p align="center"> 
-<a href="https://app.daily.dev/willpari"><img src="https://api.daily.dev/devcards/01a1fc1b18ab44b5a94252ccf03c79cb.png?r=faq" width="400" alt="Will Pari's Dev Card"/></a>
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
