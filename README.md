@@ -28,7 +28,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,csharp,sqlserver,postgresql,redis,docker,kubernetes,github,linux,azure" />
+    <img src="https://skillicons.dev/icons?i=git,aws,docker,azure,cs,dotnet,github,git,mongodb,mysql,postman,postgres,visualstudio" />
   </a>
 </p>
-<br>
