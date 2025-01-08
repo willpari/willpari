@@ -1,7 +1,7 @@
 <html>
 <body>
+    <h1>Hi everyone, I'm</h1>
     <img src="https://i.imgur.com/6KcaTyj.png" alt="Profile Picture">
-    <h1>Hi everyone, I'm Will Enrique Pari Muñante—😎</h1>
     <hr>
     <ul>
         <li>🤞 I'm a Backend Developer</li>
