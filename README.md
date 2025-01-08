@@ -25,7 +25,7 @@
     </p>
 
 
-<h2 align="center">Tecnologías Principales</h2>
+<h2 align="center">Main Technologies</h2>
     <p align="center">
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=git,aws,docker,azure,cs,dotnet,github,git,mongodb,mysql,postman,postgres,visualstudio" />
