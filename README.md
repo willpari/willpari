@@ -32,7 +32,7 @@
     </ul>
 
     <!-- Social Accounts -->
-    <p align="center">
+<p align="center">
         <a href="https://www.linkedin.com/in/willenrique/">
             <img border="0" alt="Will Enrique Pari Muñante" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
         </a>
@@ -45,7 +45,7 @@
     </p>
 
     <!-- Tech Stack figures -->
-    <h2 align="center">Tecnologías Principales</h2>
+<h2 align="center">Tecnologías Principales</h2>
     <p align="center">
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=git,aws,docker,azure,cs,dotnet,github,git,mongodb,mysql,postman,postgres,visualstudio" />
