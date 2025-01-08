@@ -1,24 +1,4 @@
 <html>
-<head>
-    <style>
-        h1 {
-            border: 0;
-        }
-        hr {
-            height: 2px;
-            border-width: 1;
-            border-radius: 5px;
-            color: gray;
-            background-color: #8080ff;
-        }
-        img {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            width: 50%;
-        }
-    </style>
-</head>
 <body>
     <img src="https://i.imgur.com/6KcaTyj.png" alt="Profile Picture">
     <h1>Hi everyone, I'm Will Enrique Pari Muñante—😎</h1>
