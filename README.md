@@ -1,7 +1,7 @@
 <html>
 <body>
     <h1>Hi everyone, I'm</h1>
-    <img src="https://i.imgur.com/uHAAiXW.png" alt="Profile Picture">
+    <img src="https://i.imgur.com/G197y1A.png" alt="Profile Picture">
     <hr>
 <h2 align="center">Main Technologies</h2>
     <p align="center">
