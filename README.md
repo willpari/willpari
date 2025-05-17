@@ -6,7 +6,7 @@
 <h2 align="center">Main Technologies</h2>
     <p align="center">
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=git,aws,docker,azure,cs,dotnet,github,git,mongodb,mysql,postman,postgres,visualstudio" />
+            <img src="https://skillicons.dev/icons?i=git,aws,docker,azure,js,html,css,nodejs,ts,github,git,mongodb,postman,vscode" />
         </a>
     </p>
 </body>
